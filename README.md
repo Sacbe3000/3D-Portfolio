@@ -3,7 +3,7 @@
 Welcome to my 3D Portfolio! This project showcases my skills in 3D development using Three.js and web technologies. Explore interactive 3D scenes and animations. Feel free to check out the code or get in touch for collaboration opportunities.
 
 ## 🌎 Demo
-You can view the live project here
+You can view the live project here https://reactmadness.com/
 
 ## 📸 Screenshots
 Here are some previews of the portfolio:
@@ -55,12 +55,12 @@ To run this project locally, follow these steps:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/sacbeponce/my-threejs-portfolio.git
+git clone https://github.com/sacbe3000/3D-Portfolio.git
 ```
 
 ### Navigate to the project directory:
 ```bash
-cd my-threejs-portfolio
+cd 3D-Portfolio
 ```
 
 ### Install dependencies:
